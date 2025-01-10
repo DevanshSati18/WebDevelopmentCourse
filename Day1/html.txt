@@ -1,0 +1,24 @@
+1) HTML (Hyper Text Markup Langauage)
+2) HTML is not a programming Langauage
+3) everthing in html is made of tags
+<img>, <li> <ol>
+
+4) two types of tags
+A) Opening tags
+<img>
+B) Closing tags
+<h1> Content</h1>
+
+Meta Tag: info about the info
+
+SEO(Search Engine Optimization)
+
+
+
+Tags:
+
+1) Heading Tag: this tag is for showing the heading of the page
+<h1></h1>
+<h2></h2>
+..
+<h6></h6>
