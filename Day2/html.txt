@@ -1,0 +1,47 @@
+<p> Paragraph tag : to write the Paragraph
+
+<i> Italic tag: to give the italic effect
+
+<b> Bold tag: to give the bold effect to the text
+
+
+<u> Under line tag: to give the under line effect to the content
+
+<br> Break Line tag: this is used to break the line in a Paragraph.
+
+ -------------------------------------------------------------------------------------
+
+Media tags: used to add the media to the web page
+
+<a> tag to add the link to different page 
+
+<img>  to add the image to the website
+
+<audio> to add the audio to the page
+
+<video> tag too add the video to the page
+
+
+---------------------------------------------------------------------------------------
+
+List Tage to present the contents in the form of a list 
+
+<ol> Ordered List this tag is used to present the ordered list with number marking
+
+<ul> Unordered list to show the content of the unordered list with bulitons 
+
+<li> to add the contents to  the list 
+
+ ------------------------------------------------------------------------------------------
+Table tags
+
+<table> tag the main aim is to present a table
+
+<th> tag this is the head of the table 
+
+<tr> define the rows in the table
+
+<td> tag to define a cell 
+--------------------------------------------------------------------------------------------------
+
+Forms
