@@ -45,3 +45,10 @@ Table tags
 --------------------------------------------------------------------------------------------------
 
 Forms
+
+<form> tag this tag is used to create a new form for the user interation
+
+<input> tag to take user input
+<textarea> multiliine input
+<button> tag to add action to the form 
+<option> tag for multiple input/ drop down option 
