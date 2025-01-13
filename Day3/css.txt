@@ -73,6 +73,10 @@ Line height
 text-alignment
 
 font:
+
+font-family
+
+
 font-size
 
 font-weight
