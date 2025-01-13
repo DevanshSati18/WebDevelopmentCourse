@@ -1,0 +1,30 @@
+.section{
+    background-color: aqua;
+    background-image: url('https://th.bing.com/th/id/OIP.a_NBaDZCwiV6fKa7XJ6B9AHaEK?rs=1&pid=ImgDetMain');
+    background-size: 100% 100%;
+    background-repeat: no-repeat ;
+    background-attachment:fixed ;
+    background-origin: border-box ;
+}
+
+sec11{
+    font-family: "Arial";
+    font-size: x-large;
+    font-stretch: ultra-expanded;
+    
+}
+.Section1{
+    color: greenyellow;
+    text-align: right;
+    
+}
+#rght{
+    text-transform: capitalize;
+    
+    line-height: 0px;
+}
+#lft{
+    text-align: justify;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}

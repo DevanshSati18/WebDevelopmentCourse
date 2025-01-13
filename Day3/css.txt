@@ -1,0 +1,84 @@
+What is css?
+
+
+Ways add css
+
+1) inline Method: In this method we add the css to the tag it self
+Priority:Highest
+
+
+2) Internal Method: In this we add the css in the style tag in the head section of the page
+Priority: lowest
+
+
+3)External Method:In this type of css we use the external file with the extension of .css give the path using the <link> tag in the head section
+Prosrity: Medium
+
+Most used CSS framworks
+1)Tailwind
+2)sCSS
+3)Bootstrap
+
+
+Selectors: to specificly target the css of a specific part in the HTML file
+
+types of selectors:
+
+1) Universal Selectors:
+this will target all the elemets Universaly and change
+
+2) tag Selector: this is used to imapement the change in the specific type tag
+
+3) class selector: (.nameofclass)
+used for a specofoc selector
+
+4) id slector:(#nameofid)
+
+5) group based selector:
+
+
+
+Colors:
+types of color coding 
+
+1) RGB color coding
+
+
+2) Hex color code
+
+
+Background(bg):
+
+bg-color
+
+
+bg-repeat
+
+bg-image
+
+bg-alignment
+
+bg-size
+
+
+Text:
+Text-color
+
+text-Position
+
+text-Spacing
+
+Line height
+
+text-alignment
+
+font:
+font-size
+
+font-weight
+
+font-style
+
+
+
+

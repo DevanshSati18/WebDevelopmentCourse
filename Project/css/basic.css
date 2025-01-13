@@ -1,0 +1,24 @@
+h1{
+    background-color: rgb(38, 0, 255);
+    text-decoration-color: aliceblue;
+    color: aqua;
+}
+
+.table{
+    align-items: center;
+    text-align: center;
+    color: chartreuse;
+}
+
+#t1r1{
+    color: brown;
+}
+
+#t2r1{
+    color: blue;
+}
+
+
+h1,h2,h3,h4{
+    color: rgb(0, 0, 255);
+}
