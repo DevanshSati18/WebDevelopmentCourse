@@ -20,7 +20,9 @@ body{
     position: fixed;
 }
 
-
+.logo a:hover{
+    color: red;
+}
 .nav-links{
     list-style: none;
     display: flex;

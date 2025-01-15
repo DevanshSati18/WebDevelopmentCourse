@@ -1,0 +1,93 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    width: 400px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Tab Buttons */
+.tab-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.tab-label {
+    width: 50%;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #ddd;
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.tab-label:hover {
+    background-color: #bbb;
+}
+
+/* Hidden Radio Buttons */
+input[type="radio"] {
+    display: none;
+}
+
+/* Active Tab Styling */
+#login-tab:checked ~ .tab-buttons .tab-label[for="login-tab"],
+#signup-tab:checked ~ .tab-buttons .tab-label[for="signup-tab"] {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Forms */
+.form-container {
+    display: none;
+}
+
+#login-tab:checked ~ #login-form {
+    display: block;
+}
+
+#signup-tab:checked ~ #signup-form {
+    display: block;
+}
+
+input {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button[type="submit"] {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+    background-color: #218838;
+}
