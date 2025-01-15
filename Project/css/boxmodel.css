@@ -1,0 +1,23 @@
+#img1{
+    width: 20px;
+    height: 20px;
+    
+    border: 0.1px solid black;
+    border-radius: 300px;
+    position: fixed;
+    
+    
+    
+}
+
+#Heading{
+    color:red;
+    
+}
+
+.c1{
+    display:grid;
+    
+    justify-content: right;
+    align-center: left;
+}

@@ -1,0 +1,51 @@
+Box Model
+
+1) Content: the inner most part of the box where we place the actual content like image text etc
+
+2) Padding: it is the space between the content and the border
+That it is transparent it will add some extra space
+
+3) Border: It is the line that is wrapping around the content and the padding 
+Its width style the color these can be customized.
+
+4) Margin: It is the outter most layerin the box creating the space between the element/content and the adjacent element
+
+margin is outside the elements or content
+
+
+Positioning: It is used to define the property for the positonginh of the element
+
+1)Static: the element will remain the the default position 
+
+2)relative: The element is positoned relative to the orignal position
+
+3) Absolute The element is positioned relative to the nearest (Static, relative)
+We use it to avaoid the over flow 
+
+4)Fixed: the lement is positoned realtive to the view port
+
+
+Layout:
+
+1)Flex Box: 1D layout model for arranging the items in rows or columns
+
+prent elemnet display: Flex
+
+property:
+flex-direction ;The direction of the flex box row/column;
+justify-content: Alignt the items horizontaly
+
+justify-items: align them vertically
+
+
+2)Grid Layout: 2D layout system for the defining of rows and columns
+
+prent elemnet display: Grid
+
+properties:
+
+grid-template-rows, grid-template-column : defining the structure of the rows and columns
+
+gap: It is the space between the grid items;
+
+place-items: Align the grid items
