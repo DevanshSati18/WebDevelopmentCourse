@@ -1,0 +1,19 @@
+Opearators:
+They symbols allow you to perform multiple operations
+
+
+1) Arithmetic Opearators( To perform mathematical operations)
+
+Addition
+ +
+Subtraction
+-
+Multiplication
+*
+Division
+/ divide
+
+ % (modulous)remainder after division
+
+ Exponent **
+ 

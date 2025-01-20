@@ -1,0 +1,12 @@
+int integer 14, 34 , 65  
+
+float 13.34536, 345345.343463
+
+double
+
+boolean True, Flase
+
+char indivisual character ex "a" , "b" .... "z"
+
+string "Apple" , "Banana"
+
